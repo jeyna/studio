@@ -58,20 +58,20 @@ img {
 }
 
 .profile-image-1 {
-  background-image: url("img/dp-1.jpg");
+  background-image: url("./dp-1.jpg");
   background-position: 50% top ;
 }
 
 .profile-image-2 {
-  background-image: url("img/dp-2.jpg");
+  background-image: url("./dp-2.jpg");
 }
 
 .profile-image-3 {
-  background-image: url("img/dp-3.jpg");
+  background-image: url("./dp-3.jpg");
 }
 
 .profile-image-4 {
-  background-image: url("img/dp-4.jpg");
+  background-image: url("./dp-4.jpg");
 }
 
 .header-profile-title > p:nth-of-type(2) {
